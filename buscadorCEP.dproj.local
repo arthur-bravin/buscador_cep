@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/05 15:07:15.000.161,=C:\Users\Adailson\Documents\Embarcadero\Studio\Projects\Unit27.pas</Transaction>
+    <Transaction>2021/08/09 09:31:39.000.704,=C:\Users\Adailson\Documents\Embarcadero\Studio\Projects\Unit27.pas</Transaction>
+    <Transaction>2021/08/16 14:42:45.000.711,=C:\Users\Adailson\Documents\Embarcadero\Studio\Projects\Unit27.pas</Transaction>
+    <Transaction>2022/01/06 14:34:43.000.737,=C:\Users\Adailson\Documents\Embarcadero\Studio\Projects\Unit27.pas</Transaction>
+    <Transaction>2022/01/06 15:37:56.000.001,C:\Delphi\buscador-cep\main.pas=C:\Users\Adailson\Documents\Embarcadero\Studio\Projects\Unit27.pas</Transaction>
+    <Transaction>2022/01/06 15:37:56.000.001,C:\Delphi\buscador-cep\main.dfm=C:\Users\Adailson\Documents\Embarcadero\Studio\Projects\Unit27.dfm</Transaction>
+    <Transaction>2022/01/06 15:38:25.000.309,C:\Delphi\buscador-cep\buscadorCEP.dproj=C:\Users\Adailson\Documents\Embarcadero\Studio\Projects\Project25.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
